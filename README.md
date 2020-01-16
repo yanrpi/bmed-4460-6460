@@ -1,2 +1,2 @@
-# BMED4460/6460 - 2019
-Biological Image Analysis for Spring 2019
+# BMED4460/6460
+Biological Image Analysis for Spring 2020
