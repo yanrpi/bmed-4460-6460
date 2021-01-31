@@ -1,2 +1,2 @@
-# BMED4460/6460
-Source Code for the Course of Biological Image Analysis
+# BMED 4460/6460
+Python Code for the Course of Biological Image Analysis
